@@ -14,3 +14,6 @@ The main goal of this project is to provide a easy mult-platform tool.
 ## Binary Program:
 <a href="https://sourceforge.net/projects/woterm/files">https://sourceforge.net/projects/woterm/files</a>
 
+## compile requirement
+[LibreSSL V2.6.5](https://github.com/PowerShell/LibreSSL/releases?page=2)
+
